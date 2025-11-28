@@ -5,3 +5,5 @@ We gave made an AI Agent which analyse your products history and demand and also
 It also research how yesterday product price was changed and how in future the product price decrease or increase.
 
 It give you pattern how the pricing of product gets change and how to use this pricing and what is the best pricing to increase the selling rate.
+
+We have used Google ADK, Llm Agent, Python, Custom Tools, Kaggle Platform
