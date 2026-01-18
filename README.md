@@ -4,9 +4,9 @@ This project represents a sophisticated AI-powered Business Intelligence Agent b
 It gives your product a great boost that will increase your demand of that product.
 
 <h1>** Technologies Used **</h1>
-** Google ADK
-** LlmAgnet
-** Python
+<h4>1. Google ADK</h4>
+<h4>2. LlmAgnet</h4>
+<h4></h4>3. Python</h4>
 
 <h1>** Custom Tool Function**</h1>
 
@@ -44,3 +44,7 @@ Competitive price monitoring integration
 Multi-channel analytics combining online and offline sales data
 Predictive scenario modeling for strategic planning
 Automated reporting and alerting systems
+
+<h1>** ScreenShots **</h1>
+
+<img src = "Screenshot 2026-01-18 122009.png">
