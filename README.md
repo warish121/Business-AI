@@ -3,6 +3,11 @@ Business AI Agent
 This project represents a sophisticated AI-powered Business Intelligence Agent built using Google Agent Development kit that revolutionizes how businesses analyze product performance, pricing strategies, and demand forecasting. The system combines artificial intelligence with robust data analytics to provide comprehensive insights into product lifecycle management.
 It gives your product a great boost that will increase your demand of that product.
 
+<h1>** Technologies Used **</h1>
+** Google ADK
+** LlmAgnet
+** Python
+
 <h1>** Custom Tool Function**</h1>
 
 <h3>**get_product_price_history**</h3>
